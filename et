@@ -1,10 +1,28 @@
-[33mcommit e6f26a36276a74d223f2c8151b3f5f28ec078a7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[33mcommit 2ef7a44611740cc42f42afeb1b11f85781d9ad2b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mta/add-meta-tags[m[33m)[m
+Author: 1am2nk24iq <161739510+1am2nk24iq@users.noreply.github.com>
+Date:   Sun Mar 3 05:17:28 2024 +0000
+
+    Add favicon and meta image
+
+[33mcommit 8c449753db522a5ec24fd80f2bdd50ce8ce84249[m
+Author: 1am2nk24iq <161739510+1am2nk24iq@users.noreply.github.com>
+Date:   Sun Mar 3 05:14:30 2024 +0000
+
+    added meta tags
+
+[33mcommit 60c219f71b402412c1d2b8cfe2ec0d9b9bc67e0c[m
+Author: 1am2nk24iq <161739510+1am2nk24iq@users.noreply.github.com>
+Date:   Sun Mar 3 05:11:51 2024 +0000
+
+    added titles and favicon
+
+[33mcommit e6f26a36276a74d223f2c8151b3f5f28ec078a7f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
 Author: 1am2nk24iq <161739510+1am2nk24iq@users.noreply.github.com>
 Date:   Sun Mar 3 03:39:45 2024 +0000
 
     Adding the HTML and CSS files
 
-[33mcommit 8d74ccedf7d6d2e78f2ac32b4e15cdb295c9401f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33mcommit 8d74ccedf7d6d2e78f2ac32b4e15cdb295c9401f[m
 Author: 1am2nk24iq <161739510+1am2nk24iq@users.noreply.github.com>
 Date:   Sat Mar 2 14:16:11 2024 +0530
 
